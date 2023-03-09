@@ -1,4 +1,5 @@
 ##Excel Table Editor
+
 This is a simple React application that allows you to upload an Excel file and display its contents in a table. You can edit the data directly in the table, and the changes will be reflected in the underlying JSON data. The application uses the xlsx library to read Excel files and the react-data-table-component library to display the data in a table.
 
 #Getting started
